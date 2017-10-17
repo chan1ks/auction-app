@@ -1,0 +1,6 @@
+.slide-image {
+    width: 100%;
+}
+.carousel-control,.item {
+    border-radius: 4px;
+}

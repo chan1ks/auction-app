@@ -1,0 +1,26 @@
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+.caption h4 {
+    white-space: nowrap;
+}
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail {
+    padding: 0;
+}
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+auction-stars {
+    float: left;
+}
+.product-quantity, .auction-stars {
+    padding: 9px;
+}
+.auction-stars button {
+    float: right;
+}

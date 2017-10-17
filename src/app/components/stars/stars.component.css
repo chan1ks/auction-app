@@ -1,0 +1,7 @@
+.starrating {
+    color: #d17581;
+}
+
+.starrating.glyphicon-star {
+    margin-right: 4px;
+}
